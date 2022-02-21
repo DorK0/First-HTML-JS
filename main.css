@@ -1,0 +1,32 @@
+body{
+    font-family: 'Trebuchet MS'!important;
+}
+
+
+.myLabel{
+    position: relative;
+    left:17%; 
+    font-family: 'Trebuchet MS'; 
+    font-size: x-large; color: #000000;
+    text-shadow: 2px 2px 4px #fff;
+}
+.myDiv{
+    text-align: center; 
+    font-family: 'Trebuchet MS'; 
+    font-size: xx-large; 
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    position: absolute;
+    top:36%;
+    left:42%;
+}
+#colorPicking{
+    position: absolute;
+    top:79Vh;
+    left:25%;
+}
+.myBtn{
+    position: absolute;
+    top:91Vh;
+    left:45%;
+}
